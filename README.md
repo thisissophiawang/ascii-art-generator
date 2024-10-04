@@ -10,17 +10,6 @@ This project converts images into ASCII art using OpenCV and Gradio for the user
 - Adjustable contrast for better clarity in ASCII art.
 - Real-time image-to-ASCII conversion using a Gradio interface.
 
-
-## Requirements
-
-Before running the project, ensure you have the following Python packages installed:
-
-```bash
-gradio==4.44.0
-opencv-python==4.10.0.84
-numpy==1.26.4
-pydub==0.25.1
-
 ## Usage
 
 Upload an image file.
@@ -66,3 +55,13 @@ Download the result as a .txt file if desired.
 2. **Visual Evaluation:**
    - The quality of the ASCII art is also assessed visually, where factors like clarity, balance, and readability are considered.
    - A score from 1 to 10 can be assigned based on how well the image retains its recognizability and aesthetics in ASCII form.
+  
+## Requirements
+
+Before running the project, ensure you have the following Python packages installed:
+
+bash
+gradio==4.44.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+pydub==0.25.1
