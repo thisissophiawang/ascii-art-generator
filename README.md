@@ -10,6 +10,9 @@ This project converts images into ASCII art using OpenCV and Gradio for the user
 - Adjustable contrast for better clarity in ASCII art.
 - Real-time image-to-ASCII conversion using a Gradio interface.
 
+## LINK
+https://huggingface.co/spaces/Thisissophia/ascii-art-generator
+
 ## Usage
 
 Upload an image file.
