@@ -22,8 +22,7 @@ This project converts images into **ASCII art** using OpenCV and Gradio for the 
 ---
 
 ### 💡 **Try it out on Hugging Face!**
-🔗 **[Live Demo](https://huggingface.co/spaces/Thisissophia/ascii-art-generator
-))**  
+🔗 **[Live Demo](https://huggingface.co/spaces/Thisissophia/ascii-art-generator)**  
 
 
 ## Usage
