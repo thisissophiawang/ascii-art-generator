@@ -1,4 +1,5 @@
 # ASCII Art Generator
+![ASCII Art Generator](path/to/image.png)
 
 This project converts images into **ASCII art** using OpenCV and Gradio for the user interface. The application supports **grayscale conversion, contrast enhancement, and optional edge detection** for more detailed output. It is built using Python and deployed on **Hugging Face Spaces**.
 
