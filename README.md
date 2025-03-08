@@ -9,7 +9,7 @@ This project converts images into **ASCII art** using OpenCV and Gradio for the 
 ![Black Shiba](https://github.com/thisissophiawang/ascii-art-generator/blob/main/black%20shiba.jpg?raw=true)
 
 ### **ASCII Art Output**
-![ASCII Shiba Output](https://github.com/thisissophiawang/ascii-art-generator/blob/main/ascii_art_blackshiba.txt)
+![ASCII Shiba Output](https://github.com/thisissophiawang/ascii-art-generator/blob/main/blackshiba%20output.png)
 
 ---
 
