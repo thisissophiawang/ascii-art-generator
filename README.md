@@ -1,17 +1,30 @@
-
 # ASCII Art Generator
 
-This project converts images into ASCII art using OpenCV and Gradio for the user interface. The application supports grayscale conversion, contrast enhancement, and optional edge detection for more detailed output. It is built using Python and deployed on Hugging Face Spaces.
+This project converts images into **ASCII art** using OpenCV and Gradio for the user interface. The application supports **grayscale conversion, contrast enhancement, and optional edge detection** for more detailed output. It is built using Python and deployed on **Hugging Face Spaces**.
 
-## Features
+## 🖼️ Example Output
 
-- Upload an image to convert it to ASCII art.
-- Optional edge detection for highlighting details.
-- Adjustable contrast for better clarity in ASCII art.
-- Real-time image-to-ASCII conversion using a Gradio interface.
+### **Original Image - Black Shiba**
+![Black Shiba](https://github.com/thisissophiawang/ascii-art-generator/blob/main/black%20shiba.jpg?raw=true)
 
-## Link
-https://huggingface.co/spaces/Thisissophia/ascii-art-generator
+### **ASCII Art Output**
+![ASCII Shiba Output](https://github.com/thisissophiawang/ascii-art-generator/blob/main/blackshiba%20output.png?raw=true)
+
+---
+
+## 🚀 Features
+
+- 📤 **Upload an image** to convert it to **ASCII art**.
+- ✨ **Optional edge detection** for highlighting details.
+- 🎚 **Adjustable contrast** for better clarity in ASCII output.
+- ⚡ **Real-time conversion** using a **Gradio interface**.
+
+---
+
+### 💡 **Try it out on Hugging Face!**
+🔗 **[Live Demo](https://huggingface.co/spaces/Thisissophia/ascii-art-generator
+))**  
+
 
 ## Usage
 
